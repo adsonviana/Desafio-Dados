@@ -1,0 +1,101 @@
+,id_aluno,nome,idade,serie,sexo,nota_matematica,nota_portugues,frequencia,Média,Aprovado
+0,1,Pedro Lucas Vieira,11,6º Ano,Masculino,"4,1","3,8","63,7","4,76",Não
+1,2,Emanuelly Moreira,10,4º Ano,Feminino,"8,4","7,8","64,6","7,55",Sim
+2,3,Murilo Nogueira,13,9º Ano,Masculino,"8,1","6,5","68,4","7,15",Sim
+3,4,Helena Oliveira,14,9º Ano,Feminino,"3,7","3,4","65,4","4,55",Não
+4,5,Alice Ribeiro,15,9º Ano,Feminino,"2,7","8,7","89,8","6,79",Não
+5,6,Lucas Campos,12,7º Ano,Masculino,"8,9","4,1","76,7","6,89",Não
+6,7,Pedro Cavalcanti,10,6º Ano,Masculino,"7,4","6,6","67,8","6,93",Não
+7,8,Bianca Pires,9,4º Ano,Feminino,"0,2","9,3","61,9","5,23",Não
+8,9,Anthony da Mota,10,5º Ano,Masculino,"3,6","8,3","64,4","6,11",Não
+9,10,Nicole Gomes,13,8º Ano,Feminino,"5,7","3,6","83,3","5,88",Não
+10,11,Kevin Moraes,8,3º Ano,Masculino,"2,9","0,3","91,1","4,10",Não
+11,12,Lavínia Costa,8,4º Ano,Feminino,"5,0","8,1","64,1","6,50",Não
+12,13,Lucca Nascimento,6,1º Ano,Masculino,"0,9","7,4","81,7","5,49",Não
+13,14,Luiz Gustavo Carvalho,7,2º Ano,Masculino,"6,8","6,5","62,5","6,52",Não
+14,15,Miguel Teixeira,10,4º Ano,Masculino,"7,7","8,6","93,4","8,55",Sim
+15,16,Pietro Azevedo,11,6º Ano,Masculino,"0,8","6,8","84,0","5,33",Não
+16,17,Larissa Araújo,14,8º Ano,Feminino,"3,1","8,0","94,8","6,86",Não
+17,18,Laura Correia,13,9º Ano,Feminino,"2,1","3,5","62,3","3,94",Não
+18,19,Mariana Barbosa,5,1º Ano,Feminino,"9,0","8,5","82,9","8,60",Sim
+19,20,Diego Moura,6,2º Ano,Masculino,"6,8","1,6","77,9","5,40",Não
+20,21,Guilherme Ramos,9,5º Ano,Masculino,"2,8","0,9","91,9","4,30",Não
+21,22,Ana Nogueira,9,3º Ano,Feminino,"8,2","7,8","83,5","8,12",Sim
+22,23,Lorena Azevedo,10,5º Ano,Feminino,"3,4","1,7","81,8","4,43",Não
+23,24,Vitor Hugo Souza,12,8º Ano,Masculino,"2,9","1,8","84,0","4,37",Não
+24,25,Alícia Pereira,11,6º Ano,Feminino,"0,2","7,2","68,0","4,73",Não
+25,26,Noah Nogueira,9,3º Ano,Masculino,"0,6","5,0","80,5","4,55",Não
+26,27,Luigi Silva,12,6º Ano,Masculino,"0,8","8,3","95,2","6,21",Não
+27,28,André Duarte,9,3º Ano,Masculino,"2,2","2,9","69,0","4,00",Não
+28,29,Augusto Dias,6,2º Ano,Masculino,"8,2","3,3","66,7","6,06",Não
+29,30,Stella Correia,8,3º Ano,Feminino,"4,3","4,0","90,2","5,77",Não
+30,31,Caroline Barbosa,14,9º Ano,Feminino,"4,1","5,8","76,5","5,85",Não
+31,32,Milena da Rosa,11,6º Ano,Feminino,"3,5","1,2","96,5","4,78",Não
+32,33,Carolina da Mata,13,7º Ano,Feminino,"5,2","0,9","75,9","4,56",Não
+33,34,Renan Novaes,10,6º Ano,Masculino,"5,1","1,3","99,1","5,44",Não
+34,35,Pedro Miguel Azevedo,9,3º Ano,Masculino,"9,6","0,1","66,4","5,45",Não
+35,36,Stella Peixoto,11,5º Ano,Feminino,"1,0","0,7","62,4","2,65",Não
+36,37,Rafael Pereira,14,9º Ano,Masculino,"7,4","7,1","61,5","6,88",Não
+37,38,João Pedro Rodrigues,11,5º Ano,Masculino,"9,6","0,4","85,7","6,19",Não
+38,39,Yago Freitas,9,4º Ano,Masculino,"9,6","7,3","73,7","8,09",Sim
+39,40,Nathan Farias,8,4º Ano,Masculino,"2,7","9,7","67,5","6,38",Não
+40,41,Fernando Pinto,8,3º Ano,Masculino,"9,5","6,5","93,3","8,44",Sim
+41,42,Sofia Gomes,5,1º Ano,Feminino,"8,5","5,2","86,9","7,46",Sim
+42,43,Emanuel Silveira,9,4º Ano,Masculino,"0,0","3,9","62,9","3,40",Não
+43,44,Nina Moreira,10,4º Ano,Feminino,"6,9","2,3","66,0","5,27",Não
+44,45,Emanuelly Viana,14,8º Ano,Feminino,"4,5","6,9","61,1","5,84",Não
+45,46,Helena Almeida,7,3º Ano,Feminino,"7,6","4,8","60,8","6,16",Não
+46,47,Vitória Martins,10,6º Ano,Feminino,"5,5","2,5","65,0","4,83",Não
+47,48,Henrique Santos,13,9º Ano,Masculino,"7,1","2,4","77,4","5,75",Não
+48,49,Caio Costela,13,8º Ano,Masculino,"6,2","4,9","71,1","6,07",Não
+49,50,Rodrigo Caldeira,7,2º Ano,Masculino,"2,5","3,3","89,0","4,90",Não
+50,51,Marcos Vinicius Lopes,6,2º Ano,Masculino,"9,9","5,1","78,4","7,61",Sim
+51,52,Enzo Aragão,8,2º Ano,Masculino,"3,6","4,8","97,2","6,04",Não
+52,53,Leandro Peixoto,7,2º Ano,Masculino,"4,9","5,9","94,8","6,76",Não
+53,54,Isabelly Novaes,11,6º Ano,Feminino,"8,1","7,0","69,4","7,35",Sim
+54,55,Gustavo Ribeiro,12,7º Ano,Masculino,"7,7","0,2","87,8","5,56",Não
+55,56,João Lopes,10,6º Ano,Masculino,"7,4","5,1","63,3","6,28",Não
+56,57,Maria Sophia Cardoso,7,3º Ano,Feminino,"2,7","1,3","86,2","4,21",Não
+57,58,Natália Teixeira,13,9º Ano,Feminino,"3,2","3,1","74,3","4,58",Não
+58,59,Lívia Alves,7,3º Ano,Feminino,"1,7","1,2","78,9","3,60",Não
+59,60,Alana da Rosa,6,2º Ano,Feminino,"5,8","5,7","74,2","6,31",Não
+60,61,Alice Ferreira,9,3º Ano,Feminino,"6,1","3,7","72,4","5,68",Não
+61,62,Evelyn Pinto,7,1º Ano,Feminino,"2,2","1,0","64,4","3,21",Não
+62,63,Renan Nogueira,13,9º Ano,Masculino,"10,0","5,1","93,9","8,16",Sim
+63,64,Maria Cecília Peixoto,12,7º Ano,Feminino,"5,3","8,9","80,6","7,42",Sim
+64,65,Maysa Aragão,12,8º Ano,Feminino,"1,6","0,5","88,8","3,66",Não
+65,66,Laís Farias,15,9º Ano,Feminino,"4,6","2,5","98,5","5,65",Não
+66,67,Manuela da Cruz,9,3º Ano,Feminino,"4,2","4,0","60,3","4,74",Não
+67,68,Daniela Costela,11,6º Ano,Feminino,"4,7","6,4","79,7","6,36",Não
+68,69,Kamilly Freitas,12,6º Ano,Feminino,"0,1","3,6","71,5","3,62",Não
+69,70,Ana Vitória Almeida,10,6º Ano,Feminino,"9,0","1,1","85,1","6,20",Não
+70,71,Pietro Almeida,12,7º Ano,Masculino,"6,3","9,0","91,2","8,14",Sim
+71,72,Júlia Cardoso,10,6º Ano,Feminino,"8,2","6,2","68,6","7,09",Sim
+72,73,Marcela das Neves,13,9º Ano,Feminino,"9,7","0,7","77,9","6,06",Não
+73,74,João Miguel Moura,7,2º Ano,Masculino,"2,3","9,1","85,3","6,64",Não
+74,75,Maria Luiza Silva,10,6º Ano,Feminino,"5,6","8,1","98,8","7,86",Sim
+75,76,Mirella Viana,11,5º Ano,Feminino,"6,2","9,0","87,4","7,98",Sim
+76,77,Ana Carolina Farias,6,2º Ano,Feminino,"1,8","8,6","97,9","6,73",Não
+77,78,Isabelly Nogueira,8,3º Ano,Feminino,"6,0","3,9","73,6","5,75",Não
+78,79,Emilly Pereira,10,5º Ano,Feminino,"1,9","1,8","68,4","3,51",Não
+79,80,Juliana Lima,14,9º Ano,Feminino,"0,5","6,7","82,5","5,15",Não
+80,81,Maria Luiza Souza,9,5º Ano,Feminino,"4,1","4,4","77,4","5,41",Não
+81,82,Mirella Viana,11,6º Ano,Feminino,"5,3","8,0","90,9","7,46",Sim
+82,83,Heloísa Mendes,14,9º Ano,Feminino,"2,6","5,5","62,2","4,77",Não
+83,84,Levi Azevedo,7,3º Ano,Masculino,"4,5","8,3","68,6","6,55",Não
+84,85,Leonardo Nunes,15,9º Ano,Masculino,"1,3","5,6","94,2","5,44",Não
+85,86,Felipe Teixeira,12,8º Ano,Masculino,"3,5","1,1","61,4","3,58",Não
+86,87,Daniela Aragão,10,5º Ano,Feminino,"0,5","8,3","84,1","5,74",Não
+87,88,Vinicius Fogaça,8,3º Ano,Masculino,"3,9","2,9","82,4","5,01",Não
+88,89,Daniela Rezende,6,2º Ano,Feminino,"5,6","3,1","90,0","5,90",Não
+89,90,Luiz Fernando da Luz,15,9º Ano,Masculino,"0,9","0,0","81,5","3,02",Não
+90,91,Davi Luiz Vieira,13,8º Ano,Masculino,"8,9","3,0","82,7","6,72",Não
+91,92,Samuel Campos,9,4º Ano,Masculino,"7,3","4,9","72,5","6,48",Não
+92,93,Agatha Campos,12,7º Ano,Feminino,"8,2","0,3","89,1","5,80",Não
+93,94,Bernardo Peixoto,7,3º Ano,Masculino,"9,7","1,9","75,8","6,39",Não
+94,95,Pedro Lucas da Mata,14,9º Ano,Masculino,"7,1","1,2","86,5","5,65",Não
+95,96,Julia das Neves,15,9º Ano,Feminino,"2,9","5,3","78,1","5,34",Não
+96,97,João Ramos,6,1º Ano,Masculino,"9,9","7,1","71,8","8,06",Sim
+97,98,Clarice da Mota,8,3º Ano,Feminino,"3,2","3,5","99,4","5,55",Não
+98,99,Lucas Gabriel da Luz,11,5º Ano,Masculino,"4,5","1,2","63,6","4,02",Não
+99,100,Ana Sophia Nunes,8,3º Ano,Feminino,"2,2","5,0","60,7","4,42",Não
