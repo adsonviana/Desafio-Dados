@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Criando um dataframe com os dados do arquivo fornecido
-alunos_df = pd.read_csv('Atividade Dados/Base_despadronizada.csv')
+alunos_df = pd.read_csv('Base_despadronizada.csv')
 
 # Verificando todas as possibilidades de respostas presentes na coluna "sexo"
 print(alunos_df['sexo'].value_counts())
